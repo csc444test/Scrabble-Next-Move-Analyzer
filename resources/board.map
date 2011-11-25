@@ -1,0 +1,23 @@
+15 15
+T _ _ d _ _ _ T _ _ _ d _ _ T
+_ D _ _ _ t _ _ _ t _ _ _ D _
+_ _ D _ _ _ d _ d _ _ _ D _ _
+d _ _ D _ _ _ d _ _ _ D _ _ d
+_ _ _ _ D _ _ _ _ _ D _ _ _ _
+_ t _ _ _ t _ _ _ t _ _ _ t _
+_ _ d _ _ _ d _ d _ _ _ d _ _
+T _ _ d _ _ _ S _ _ _ d _ _ T
+_ _ d _ _ _ d _ d _ _ _ d _ _
+_ t _ _ _ t _ _ _ t _ _ _ t _
+_ _ _ _ D _ _ _ _ _ D _ _ _ _
+d _ _ D _ _ _ d _ _ _ D _ _ d
+_ _ D _ _ _ d _ d _ _ _ D _ _
+_ D _ _ _ t _ _ _ t _ _ _ D _
+T _ _ d _ _ _ T _ _ _ d _ _ T
+
+
+# T = Triple word score
+# t = Triple letter score
+# D = Double word score
+# d = Double letter score
+# S = Star / Begin of game
